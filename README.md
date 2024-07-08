@@ -8,8 +8,16 @@
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a> 
   
-<a href="tel:+8801864484844">
+<a href="https://www.linkedin.com/in/sayedul-hoque-640380278/">
+<img src="https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white" height=25>
+</a> 
+  
+<a href="https://wa.me/+8801864484844">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?&style=for-the-badge&logo=whatsapp&logoColor=fff" height=25>
+</a> 
+
+<a href="mailto:sayedulhoque3544@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
 </a> 
 
 <h2>____________ 💻 Skills ✨ ____________</h2>
