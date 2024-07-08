@@ -4,12 +4,11 @@
 
 <h2>____________ 👥 Social Links ____________</h2>
 <p>
-  
-<a href="https://www.linkedin.com/in/mokkapps">
+<a href="https://www.linkedin.com/in/sayedul-hoque-640380278/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a> 
-
-<a href="https://www.linkedin.com/in/mokkapps">
+  
+<a href="tel:+8801864484844">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?&style=for-the-badge&logo=whatsapp&logoColor=fff" height=25>
 </a> 
 
@@ -38,9 +37,11 @@
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" /> </a>
 
 <h3>Tools :</h3>
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" /> </a>
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/aws-ff9900?style=for-the-badge" alt="aws" /> </a>
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="npm" /> </a>
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="npm" /> </a>
 
 
 <h3>Authentication & Validation & HTTP :</h3>
