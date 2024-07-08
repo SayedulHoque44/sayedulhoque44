@@ -21,7 +21,7 @@
 </a> 
 
 <h2>____________ 💻 Skills ✨ ____________</h2>
-<h3>Language </h3>
+<h3>Language :</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" /> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" /> </a> 
 
@@ -43,9 +43,10 @@
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" /> </a>
 <a href="https://www.mongodb.com/"  target="_blank"> <img src="https://img.shields.io/badge/Mongoose-D0021B?style=for-the-badge&logo=Mongoose&logoColor=white" alt="mongodb" /> </a>
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" /> </a>
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="postgresql" /> </a>
 
 <h3>Tools :</h3>
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+<a href="https://www.expressjs.com" target="_blank"> <img src="https://img.shields.io/badge/Git_Hub-000000?style=for-the-badge" alt="expressjs" /> </a>
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" /> </a>
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/aws-ff9900?style=for-the-badge" alt="aws" /> </a>
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="npm" /> </a>
