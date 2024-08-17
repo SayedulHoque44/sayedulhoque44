@@ -46,7 +46,7 @@
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="postgresql" /> </a>
 
 <h3>Tools :</h3>
-<a href="https://www.expressjs.com" target="_blank"> <img src="[https://img.shields.io/badge/Git_Hub-000000?style=for-the-badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)" alt="expressjs" /> </a>
+<a href="https://www.expressjs.com" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="expressjs" /> </a>
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" /> </a>
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/aws-ff9900?style=for-the-badge" alt="aws" /> </a>
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="npm" /> </a>
